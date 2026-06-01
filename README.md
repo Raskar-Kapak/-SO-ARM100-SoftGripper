@@ -28,4 +28,5 @@ Contrairement aux pinces rigides traditionnelles, un préhenseur souple permet d
  ┣ 📂 STL/             # Fichiers prêts à imprimer (.STL / .3MF)
  ┣ 📂 docs/            # Compte-rendu de recherche, documentation et schémas
  ┣ 📂 src/             # Code source pour le contrôle (Python, C++...)
+ ┣ 📂 images/          # Images d'illustation
  ┗ 📜 README.md        # Ce fichier
