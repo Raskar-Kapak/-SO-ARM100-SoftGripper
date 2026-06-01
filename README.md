@@ -1,17 +1,17 @@
 # 🦾 SO-ARM101 : Développement d'un Préhenseur Souple (Soft Gripper)
 
-![Bannière du projet ou photo de ton préhenseur](lien_vers_une_image_ici.jpg)
+![Bannière du projet ou photo de ton préhenseur](images/compliant_gripper.png)
 
-*Ce dépôt a été créé dans le cadre d'un stage de recherche chez [Nom du labo / Polytech / Entreprise], encadré par [Nom de ton maître de stage].*
+*Ce dépôt a été créé dans le cadre d'un stage de recherche à l'INRIA, encadré par Yinoussa Adagolodjo.*
 
 ---
 
 ## 📖 Introduction
 
 Ce projet vise à étendre les capacités du bras robotique open-source **SO-ARM101** en lui ajoutant un effecteur terminal (préhenseur) de type "Soft Robotics". 
-Contrairement aux pinces rigides traditionnelles, un préhenseur souple permet de manipuler des objets fragiles, de formes complexes ou inconnues, en s'adaptant naturellement à leur géométrie (compliance).
+Contrairement aux pinces rigides traditionnelles, un préhenseur souple permet de manipuler des objets fragiles, de formes complexes ou inconnues en s'adaptant naturellement à leur géométrie (compliance). Il réduit les efforts excessifs et minimise le risque d'endommagement, tout en offrant une prise plus sûre et plus douce.
 
-📝 **[Lire le rapport de recherche complet (PDF)](docs/Rapport_Recherche_TonNom.pdf)**
+📝 **[Lire le rapport de recherche complet (PDF)](docs/Rapport_de_recherche.md)**
 
 ## 🎯 Objectifs du Projet
 
